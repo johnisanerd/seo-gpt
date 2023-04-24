@@ -16,6 +16,6 @@ GPTSEO is a Python tool that scrapes entire blogs or knowledgebases and automati
 ## Using the Output
 Check the `output` folder once SEOGPT has finished running. Note: If the blog contains hundreds of articles, it will take several hours or up to a day for all the articles to be generated using chatGPT. You will be able to see an output of each re-written article in the console. By default, all gpt-artcles will be saved in markdown format. 
 
-## Limiations of SEOGPT
+## Limitations of SEOGPT
 It most likely won't work out of the box with blogs as subdomains as it was only tested on blogs as subdirectories.
 
